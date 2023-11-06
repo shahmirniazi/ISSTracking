@@ -1,5 +1,8 @@
 # ISS Tracker
 
+![Alt Text](./public/images/preview.jpeg)
+
+
 **ISS Tracker** is a web application that allows you to track the real-time location of the International Space Station (ISS) on a map. It provides information about the ISS's latitude and longitude, and displays the current location on a map.
 
 ## Table of Contents
